@@ -1,0 +1,4 @@
+﻿  ti429_hw9.cpp
+C:\Users\Vitalik\source\repos\hw9\ti429_hw9.cpp(107,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Vitalik\source\repos\hw9\ti429_hw9.cpp(205,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hw9.vcxproj -> C:\Users\Vitalik\source\repos\hw9\Debug\hw9.exe
